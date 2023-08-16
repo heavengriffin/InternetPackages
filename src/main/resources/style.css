@@ -1,0 +1,225 @@
+.table-view .column-header-background .label {
+    -fx-font-weight: bold;
+    -fx-background-color: beige;
+}
+.text-field {
+    -fx-background-color: lightskyblue;
+    -fx-border-color: white;
+    -fx-prompt-text-fill: white;
+}
+#s2 {
+    -fx-background-color: #89FF90;
+    -fx-text-fill: black;
+}
+#s2:selected {
+        -fx-background-color: -fx-focus-color, -fx-outer-border, -fx-inner-border, -fx-body-color;
+        -fx-background-color: #00CED1;
+}
+#s2:hover {
+    -fx-color: -fx-focused-base;
+    -fx-background-color: -fx-focus-color, -fx-outer-border, -fx-inner-border, -fx-body-color;
+    -fx-background-color: aqua;
+}
+#s5 {
+    -fx-background-color: #73FF7C;
+    -fx-text-fill: black;
+}
+#s5:selected {
+        -fx-background-color: -fx-focus-color, -fx-outer-border, -fx-inner-border, -fx-body-color;
+        -fx-background-color: #00CED1;
+}
+#s5:hover {
+    -fx-color: -fx-focused-base;
+    -fx-background-color: -fx-focus-color, -fx-outer-border, -fx-inner-border, -fx-body-color;
+    -fx-background-color: aqua;
+}
+#s10 {
+    -fx-background-color: #5CFF67;
+    -fx-text-fill: black;
+}
+#s10:selected {
+        -fx-background-color: -fx-focus-color, -fx-outer-border, -fx-inner-border, -fx-body-color;
+        -fx-background-color: #00CED1;
+}
+#s10:hover {
+    -fx-color: -fx-focused-base;
+    -fx-background-color: -fx-focus-color, -fx-outer-border, -fx-inner-border, -fx-body-color;
+    -fx-background-color: aqua;
+}
+#s20 {
+    -fx-background-color: #47FC53;
+    -fx-text-fill: black;
+}
+#s20:selected {
+        -fx-background-color: -fx-focus-color, -fx-outer-border, -fx-inner-border, -fx-body-color;
+        -fx-background-color: #00CED1;
+}
+#s20:hover {
+    -fx-color: -fx-focused-base;
+    -fx-background-color: -fx-focus-color, -fx-outer-border, -fx-inner-border, -fx-body-color;
+    -fx-background-color: aqua;
+}
+#s50 {
+    -fx-background-color: #2CFA3A;
+    -fx-text-fill: black;
+}
+#s50:selected {
+        -fx-background-color: -fx-focus-color, -fx-outer-border, -fx-inner-border, -fx-body-color;
+        -fx-background-color: #00CED1;
+}
+#s50:hover {
+    -fx-color: -fx-focused-base;
+    -fx-background-color: -fx-focus-color, -fx-outer-border, -fx-inner-border, -fx-body-color;
+    -fx-background-color: aqua;
+}
+#s100 {
+    -fx-background-color: #08F618;
+    -fx-text-fill: black;
+}
+#s100:selected {
+        -fx-background-color: -fx-focus-color, -fx-outer-border, -fx-inner-border, -fx-body-color;
+        -fx-background-color: #00CED1;
+}
+#s100:hover {
+    -fx-color: -fx-focused-base;
+    -fx-background-color: -fx-focus-color, -fx-outer-border, -fx-inner-border, -fx-body-color;
+    -fx-background-color: aqua;
+}
+#b1 {
+    -fx-background-color: #FC7878;
+    -fx-text-fill: black;
+}
+#b1:selected {
+        -fx-background-color: -fx-focus-color, -fx-outer-border, -fx-inner-border, -fx-body-color;
+        -fx-background-color: #00CED1;
+}
+#b1:hover {
+    -fx-color: -fx-focused-base;
+    -fx-background-color: -fx-focus-color, -fx-outer-border, -fx-inner-border, -fx-body-color;
+    -fx-background-color: aqua;
+}
+#b5 {
+    -fx-background-color: #F75F5F;
+    -fx-text-fill: black;
+}
+#b5:selected {
+        -fx-background-color: -fx-focus-color, -fx-outer-border, -fx-inner-border, -fx-body-color;
+        -fx-background-color: #00CED1;
+}
+#b5:hover {
+    -fx-color: -fx-focused-base;
+    -fx-background-color: -fx-focus-color, -fx-outer-border, -fx-inner-border, -fx-body-color;
+    -fx-background-color: aqua;
+}
+#b10 {
+    -fx-background-color: #F04040;
+    -fx-text-fill: black;
+}
+#b10:selected {
+        -fx-background-color: -fx-focus-color, -fx-outer-border, -fx-inner-border, -fx-body-color;
+        -fx-background-color: #00CED1;
+}
+#b10:hover {
+    -fx-color: -fx-focused-base;
+    -fx-background-color: -fx-focus-color, -fx-outer-border, -fx-inner-border, -fx-body-color;
+    -fx-background-color: aqua;
+}
+#b100 {
+    -fx-background-color: #FA2E2E;
+    -fx-text-fill: black;
+}
+#b100:selected {
+        -fx-background-color: -fx-focus-color, -fx-outer-border, -fx-inner-border, -fx-body-color;
+        -fx-background-color: #00CED1;
+}
+#b100:hover {
+    -fx-color: -fx-focused-base;
+    -fx-background-color: -fx-focus-color, -fx-outer-border, -fx-inner-border, -fx-body-color;
+    -fx-background-color: aqua;
+}
+#flat {
+    -fx-background-color: #FF0404;
+    -fx-text-fill: black;
+}
+#flat:selected {
+        -fx-background-color: -fx-focus-color, -fx-outer-border, -fx-inner-border, -fx-body-color;
+        -fx-background-color: #00CED1;
+}
+#flat:hover {
+    -fx-color: -fx-focused-base;
+    -fx-background-color: -fx-focus-color, -fx-outer-border, -fx-inner-border, -fx-body-color;
+    -fx-background-color: aqua;
+}
+#oneY {
+    -fx-background-color: #FA9A2B;
+    -fx-text-fill: black;
+}
+#oneY:selected {
+        -fx-background-color: -fx-focus-color, -fx-outer-border, -fx-inner-border, -fx-body-color;
+        -fx-background-color: #00CED1;
+}
+#oneY:hover {
+    -fx-color: -fx-focused-base;
+    -fx-background-color: -fx-focus-color, -fx-outer-border, -fx-inner-border, -fx-body-color;
+    -fx-background-color: aqua;
+}
+#twoY {
+    -fx-background-color: #FC8803;
+    -fx-text-fill: black;
+}
+#twoY:selected {
+        -fx-background-color: -fx-focus-color, -fx-outer-border, -fx-inner-border, -fx-body-color;
+        -fx-background-color: #00CED1;
+}
+#twoY:hover {
+    -fx-color: -fx-focused-base;
+    -fx-background-color: -fx-focus-color, -fx-outer-border, -fx-inner-border, -fx-body-color;
+    -fx-background-color: aqua;
+}
+#saveBtn {
+    -fx-background-color: #00FF7F;
+    -fx-text-fill: black;
+}
+#saveBtn:hover {
+    -fx-background-color: aqua;
+}
+#saveBtn:pressed {
+    -fx-background-color: #00CED1;
+}
+#clearBtn {
+    -fx-background-color: #AFEEEE;
+    -fx-text-fill: black;
+}
+#clearBtn:hover {
+    -fx-background-color: aqua;
+}
+#clearBtn:pressed {
+    -fx-background-color: #00CED1;
+}
+#deleteBtn {
+    -fx-background-color: #DA70D6;
+    -fx-text-fill: black;
+}
+#deleteBtn:hover {
+    -fx-background-color: aqua;
+}
+#deleteBtn:pressed {
+    -fx-background-color: #00CED1;
+}
+.table-row-cell {
+    -fx-background-color: -fx-table-cell-border-color, thistle;
+}
+.table-row-cell:odd {
+    -fx-background-color: -fx-table-cell-border-color, plum;
+}
+.table-row-cell:selected {
+    -fx-background-color: #FF00FF
+}
+#closeBtn {
+    -fx-graphic: url("close-button-icon.png");
+    -fx-background-color: "transparent";
+    -fx-border-width: 0.0;
+}
+#closeBtn:hover {
+    -fx-graphic: url("red-close-icon.png");
+}
